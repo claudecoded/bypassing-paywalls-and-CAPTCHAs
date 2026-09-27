@@ -1,5 +1,7 @@
 # Web Automation & Computer Vision Toolkit 🛠️
 
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/d37558d2-2de8-4705-9e97-6df23b071d17" />
+
 A collection of utility scripts designed for web automation, DOM manipulation, accessibility testing, and optical character recognition (OCR). This repository serves as an educational toolkit to understand how automated browsers interact with web elements and how computer vision processes visual text data.
 
 ## 📁 Repository Structure
